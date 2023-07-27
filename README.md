@@ -1,2 +1,3 @@
 # About
-welcome>
+welcome!
+欢迎!
